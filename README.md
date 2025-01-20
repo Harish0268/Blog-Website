@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # **Wander & Wonder Blog Website**
 
 Welcome to **Wander & Wonder**, a platform designed for sharing stories, exploring creativity, and connecting with like-minded individuals. This blog website allows users to write, read, and share inspiring posts. It's built using modern web technologies and a user-friendly interface to create a seamless blogging experience.
