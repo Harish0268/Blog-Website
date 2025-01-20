@@ -40,12 +40,11 @@ npm install
 node app.js
 ```
 ### **4. Access the Application**
-- Open your browser and navigate to
+- Open your browser and navigate to view the project.
  ```bash
 http://localhost:3000 
 ```
- to view the project.
-
+ 
 ---
 
 **Folder Structure**
